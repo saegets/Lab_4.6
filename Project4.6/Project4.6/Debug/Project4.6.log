@@ -1,0 +1,2 @@
+﻿  Source1.cpp
+C:\Users\mklim\source\repos\Project4.6\Project4.6\Source1.cpp : fatal error C1041: cannot open program database 'C:\Users\mklim\source\repos\Project4.6\Project4.6\Debug\vc142.idb'; if multiple CL.EXE write to the same .PDB file, please use /FS
